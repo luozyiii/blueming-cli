@@ -1,6 +1,6 @@
 {
   "name": "blueming-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端脚手架/CLI",
   "main": "index.js",
   "scripts": {
