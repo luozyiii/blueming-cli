@@ -34,7 +34,7 @@ program
             spinner.stop(); // 隐藏加载状态
             // 强制递归删除.git目录信息
             shell.rm('-rf', `${pwd}/${projectName}/.git`);
-            console.log(chalk.blueming(`模板下载成功 cd ${projectName} && yarn`));
+            console.log(chalk.blue(`模板下载成功 cd ${projectName} && yarn`));
           });
         });
       }
