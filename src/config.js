@@ -15,6 +15,10 @@ exports.config = {
             name: 'react-admin-template-ant',
             value: 'https://github.com/luozyiii/react-admin-template-ant.git',
           },
+          {
+            name: 'vue-admin-template-element',
+            value: 'https://github.com/luozyiii/vue-admin-template-element',
+          },
         ],
       },
     },
