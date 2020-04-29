@@ -31,12 +31,8 @@ exports.config = {
         message: '请选择模板：',
         choices: [
           {
-            name: 'H5-01',
-            value: 'https://github.com/luozyiii/blueming-cli.git',
-          },
-          {
-            name: 'H5-02',
-            value: 'https://github.com/luozyiii/blueming-cli.git',
+            name: 'vue-h5-template-vw(vm适配)',
+            value: 'https://github.com/luozyiii/vue-h5-template-vw',
           },
         ],
       },
