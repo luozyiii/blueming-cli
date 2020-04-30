@@ -8,3 +8,6 @@
 
 ### vue-h5-template-vw
 vue的H5模板,采用vw适配；自由选择自己熟悉的UI框架搭配(vux,vant等)
+
+### react-h5-template-ant
+基于ant-mobile的H5模板,采用vw适配移动端

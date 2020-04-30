@@ -34,6 +34,10 @@ exports.config = {
             name: 'vue-h5-template-vw(vm适配)',
             value: 'https://github.com/luozyiii/vue-h5-template-vw',
           },
+          {
+            name: 'react-h5-template-ant(vm适配)',
+            value: 'https://github.com/luozyiii/react-h5-template-ant',
+          },
         ],
       },
     },
